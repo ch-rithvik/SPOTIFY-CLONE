@@ -58,3 +58,7 @@ Font Awesome Icons
 
 📌 Note
 This project is purely front-end and does not include any music-playing functionality. It is intended for educational purposes or UI inspiration.
+## 🌐 Live Demo
+
+[Click here to view the live project](https://ch-rithvik.github.io/SPOTIFY-CLONE/)
+
