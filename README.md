@@ -12,25 +12,25 @@ This project is a front-end clone of the Spotify Web Player interface, built usi
 - Assets (icons and images) stored locally
 
 ## 📁 Project Structure
-
-├── index.html
-├── style.css
-├── assets/
-│ ├── logo.png
-│ ├── library_icon.png
-│ ├── backward_icon.png
-│ ├── forward_icon.png
-│ ├── card1img.jpeg
-│ ├── card2img.jpeg
-│ ├── card3img.jpeg
-│ ├── card4img.jpeg
-│ ├── card5img.jpeg
-│ ├── card6img.jpeg
-│ ├── player_icon1.png
-│ ├── player_icon2.png
-│ ├── player_icon3.png
-│ ├── player_icon4.png
-│ └── player_icon5.png
+├── index.html                # Main HTML file
+├── style.css                # CSS styling
+├── README.md                # Project overview (instructions, description)
+└── assets/                  # Folder for images and icons used in the UI
+    ├── logo.png
+    ├── library_icon.png
+    ├── backward_icon.png
+    ├── forward_icon.png
+    ├── card1img.jpeg
+    ├── card2img.jpeg
+    ├── card3img.jpeg
+    ├── card4img.jpeg
+    ├── card5img.jpeg
+    ├── card6img.jpeg
+    ├── player_icon1.png
+    ├── player_icon2.png
+    ├── player_icon3.png
+    ├── player_icon4.png
+    └── player_icon5.png
 
 ## 🚀 How to Run
 
